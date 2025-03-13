@@ -33,8 +33,8 @@ I'm a Data Analyst with a background in administrative and legal management, cur
 
 <h4> Other Tools and Technologies </h4>
 <span>
-  <img src="https://img.shields.io/badge/Xampp-F37623?style=for-the-bdge&logo=Xampp5&logoColor=white">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-bdge&logo=Git5&logoColor=white">
+  <img src="https://img.shields.io/badge/Excel-F37623?style=for-the-bdge&logo=Excel5&logoColor=white">
+  <img src="https://img.shields.io/badge/phpMyAdmin-F37623?style=for-the-bdge&logo=phpMyAdmin5&logoColor=white">
   <img src="https://img.shields.io/badge/Flourish-00000F?style=for-the-bdge&logo=Flourish5&logoColor=white">
 
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
