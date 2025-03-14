@@ -20,9 +20,9 @@ I'm a Data Analyst with a background in administrative and legal management, cur
 
 <h4> Languages </h4>
 <span> 
-  <img src="https://img.shields.io/badge/PYTHON-E34F26?style=for-the-bdge&logo=Python5&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-E34F26?style=for-the-bdge&logo=Python5&logoColor=white">
   <img src="https://img.shields.io/badge/SQL-777BB4?style=for-the-bdge&logo=SQL&logoColor=white">
-  <img src="https://img.shields.io/badge/POWER_BI-F7DF1E?style=for-the-bdge&logo=PowerBI&logoColor=black">
+  <img src="https://img.shields.io/badge/Power_Bi-F7DF1E?style=for-the-bdge&logo=PowerBI&logoColor=black">
   <img src="https://img.shields.io/badge/Tableau-ED8B00?style=for-the-bdge&logo=Tableau&logoColor=white">
 </span>
 
