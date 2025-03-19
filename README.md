@@ -4,16 +4,16 @@
 <img align="right" width="300px" alt="Funny GIF" src="https://media3.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" />
 
 
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
+&nbsp;***About me***
 
 I'm a Data Analyst with a background in administrative and legal management, currently diving deeper into Data Science. I have skills in Python, SQL, Power BI, and Tableau, and I love learning, building innovative solutions, and creating projects that make a real impact.
 * **I'm interested in Data Analysis, Data Science, and Business Intelligence**
 - 🌱 I’m currently learning:
-      📊Data Science
-- 👯 I’m looking forward to collaborating on data projects.
-- 🤝 I’m available for freelancing.
-- ✔ Ask me about anything, I am happy to help 😊
-- Outside of tech, 📖 I love reading books, 🍳 experimenting in the kitchen, 🎵 listening to music, and ✈️ discovering new places.
+      Data Science
+- I’m looking forward to collaborating on data projects.
+- I’m available for freelancing.
+- Ask me about anything, I am happy to help 😊
+- Outside of tech, I love reading books, experimenting in the kitchen and discovering new places.
 - 📫 Reach out to me at: <a href="mjpachecoa@gmail.com">mjpachecoa@gmail.com
 
 ## My Skills Include
